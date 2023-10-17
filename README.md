@@ -1,6 +1,6 @@
 # 🚀 Software Engineering - The Experience 🚀
 
-[![CICD](../../actions/workflows/CI.yml/badge.svg)](../../actions/workflows/CI.yml)
+[![CICD](../../actions/workflows/CICD.yml/badge.svg)](../../actions/workflows/CICD.yml)
 [![Code Climate](https://api.codeclimate.com/v1/badges/170a6d39d1ab23f61016/maintainability)](https://codeclimate.com/github/u-ways/software-engineering-work-experience/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/170a6d39d1ab23f61016/test_coverage)](https://codeclimate.com/github/u-ways/software-engineering-work-experience/test_coverage)
 [![Latest Version](https://img.shields.io/github/v/release/U-ways/software-engineering-work-experience)](https://github.com/u-ways/software-engineering-work-experience/releases)
